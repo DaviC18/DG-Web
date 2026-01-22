@@ -5,10 +5,10 @@ const Banner = () => {
   return (
     <main className="banner w-full flex items-center h-[85vh]">
       <div className="w-2/5 h-8/12 m-auto flex flex-col justify-between items-start">
-        <p id="h1" className="text-8xl font-semibold">
+        <p id="h1" className="text-8xl font-semibold text-white">
           Doctor Genesis
         </p>
-        <p className="w-5/6">
+        <p className="w-5/6 text-white">
           Quando a compaixão da medicina encontra o poder da tecnologia, nascem
           soluções que salvam vidas e transformam o futuro.
         </p>
